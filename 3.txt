@@ -1,0 +1,2 @@
+its 3rd txt file of git repository named devops
+its being ushed from the clone 
